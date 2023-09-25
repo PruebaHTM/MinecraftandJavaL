@@ -74,7 +74,7 @@
 
     body {
 
-        background-image: url(/background/background.jpg);
+        background-color: #000;
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
